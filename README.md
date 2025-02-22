@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @harshitavaghela
-- 👀 I’m interested in Web3 & AI
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me: harshitavaghela4@gmail.com
-- 😄 Pronouns: She/her
+Hi, I’m @harshitavaghela
+- interested in Web3 & AI
+- looking to collaborate on web3 projects
+- harshitavaghela.work@gmail.com
   
 
 <!---
