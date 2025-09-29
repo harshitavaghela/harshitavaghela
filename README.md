@@ -1,7 +1,7 @@
-Hi, I’m @harshitavaghela
-- interested in Web3 & AI
-- looking to collaborate on web3 projects
-- harshitavaghela.work@gmail.com
+hi, i'm harshita 
+writing code, breaking stuff, fixing it again.
+
+
   
 
 <!---
