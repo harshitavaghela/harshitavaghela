@@ -1,4 +1,4 @@
-hi, i'm harshita - writing code, breaking stuff, fixing it again.
+writing code, breaking stuff, fixing it again.
 
 
   
